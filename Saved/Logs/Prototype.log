@@ -3057,3 +3057,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.24-09.23.34:921][858]AssetCheck: New page: Asset Save: multiple assets
 [2020.06.24-09.23.34:921][858]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.06.24-09.23.34:921][858]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.06.24-11.06.51:841][256]LogEditorViewport: Clicking on Actor (LMB): Assassin_C (Assassin)
