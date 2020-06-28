@@ -2127,3 +2127,693 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.28-22.57.04:296][593]AssetCheck: New page: Asset Save: multiple assets
 [2020.06.28-22.57.04:296][593]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.06.28-22.57.04:296][593]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.06.28-22.59.55:017][492]LogEditorTransaction: Undo Move Node
+[2020.06.28-22.59.55:436][492]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-22.59.55:450][492]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-22.59.55:472][492]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-22.59.55:476][492]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.01.55:261][636]LogHttp: Warning: 0000017F2D84A400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B26BDB794-4D05-CCA3-9698-CB868E18CB96%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=d31313c8471701d5ec1a3aab3ca23bf7%7Ccb1731e5532d4506b15c7ae93dd7c1a9%7C350b7841-7949-44df-87b2-cedd33785ede&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.06.28-23.01.55:261][636]LogHttp: Warning: 0000017F2D84A400: request failed, libcurl error: 0 (No error)
+[2020.06.28-23.01.55:261][636]LogHttp: Warning: 0000017F2D84A400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x17e7017bf70 [can pipeline])
+[2020.06.28-23.01.55:261][636]LogHttp: Warning: 0000017F2D84A400: libcurl info message cache 1 (Re-using existing connection! (#12) with host datarouter.ol.epicgames.com)
+[2020.06.28-23.01.55:261][636]LogHttp: Warning: 0000017F2D84A400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.71.230.30) port 443 (#12))
+[2020.06.28-23.01.55:261][636]LogHttp: Warning: 0000017F2D84A400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.06.28-23.01.55:261][636]LogHttp: Warning: 0000017F2D84A400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.06.28-23.01.55:261][636]LogHttp: Warning: 0000017F2D84A400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.06.28-23.01.55:261][636]LogHttp: Warning: 0000017F2D84A400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.06.28-23.01.55:261][636]LogHttp: Warning: 0000017F2D84A400: libcurl info message cache 7 (Closing connection 12)
+[2020.06.28-23.01.55:261][636]LogHttp: Warning: 0000017F2D84A400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.06.28-23.01.55:594][637]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B26BDB794-4D05-CCA3-9698-CB868E18CB96%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=d31313c8471701d5ec1a3aab3ca23bf7%7Ccb1731e5532d4506b15c7ae93dd7c1a9%7C350b7841-7949-44df-87b2-cedd33785ede&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.06.28-23.01.59:664][733]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.28-23.01.59:680][733]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.06.28-23.01.59:681][733]LogPlayLevel: [PlayLevel] Compiling Assassin before play...
+[2020.06.28-23.01.59:793][733]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.06.28-23.01.59:793][733]LogPlayLevel: PlayLevel: Blueprint regeneration took 113 ms (1 blueprints)
+[2020.06.28-23.01.59:794][733]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 29, 2020, 7:01:59 PM)
+[2020.06.28-23.01.59:796][733]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.01.59:808][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012242s)
+[2020.06.28-23.01.59:810][733]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.28-23.01.59:810][733]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017F2683F000), frame # 103733
+[2020.06.28-23.01.59:810][733]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F2D762480), frame # 103733
+[2020.06.28-23.01.59:810][733]LogPlayLevel: PIE: World Init took: (0.001637s)
+[2020.06.28-23.01.59:810][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014060s)
+[2020.06.28-23.01.59:848][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.06.28-23.01.59:849][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.28-23.01.59:849][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.28-23.01.59:849][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.28-23.01.59:849][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.28-23.01.59:849][733]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.28-23.01.59:849][733]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.28-23.01.59:849][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.28-23.01.59:849][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.28-23.01.59:850][733]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.28-23.01.59:850][733]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.28-23.01.59:855][733]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.28-23.01.59:855][733]LogAudioMixer: Display: 1: FrontRight
+[2020.06.28-23.01.59:871][733]LogAudioMixer: Display: Using Audio Device Speakers (RIG 800HD)
+[2020.06.28-23.01.59:871][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.28-23.01.59:871][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.28-23.01.59:871][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.28-23.01.59:871][733]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.28-23.01.59:881][733]LogInit: FAudioDevice initialized.
+[2020.06.28-23.01.59:908][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.01.59:909][733]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.28-23.01.59:911][733]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-09.01.59
+[2020.06.28-23.01.59:912][733]LogWorld: Bringing up level for play took: 0.002298
+[2020.06.28-23.01.59:912][733]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.06.28-23.01.59:915][733]PIE: Server logged in
+[2020.06.28-23.01.59:915][733]PIE: Play in editor total start time 0.235 seconds.
+[2020.06.28-23.02.05:690][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.02.05:690][397]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.02.05:691][397]LogSlate: Window 'Prototype Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.06.28-23.02.05:693][397]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.02.05:694][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.02.05:700][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.28-23.02.05:707][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.02.05:751][397]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F2D762480), frame # 104397
+[2020.06.28-23.02.05:751][397]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017F2683F000), frame # 104397
+[2020.06.28-23.02.05:754][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.06.28-23.02.05:783][398]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.06.28-23.02.48:815][560]BlueprintLog: New page: Compile NewInterface
+[2020.06.28-23.02.48:871][560]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.06.28-23.03.03:702][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Assassin" FILE="../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Blueprints/Assassin.uasset" SILENT=true
+[2020.06.28-23.03.03:760][897]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/AssassinDA64017448EB2B552CD403823A9D8F5F.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Blueprints/Assassin.uasset'
+[2020.06.28-23.03.03:773][897]AssetCheck: New page: Asset Save: Assassin
+[2020.06.28-23.03.03:773][897]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Assassin.Assassin
+[2020.06.28-23.07.10:391][160]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.06.28-23.07.10:439][160]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/ThirdPersonExampleMap_Auto238D11D5D4140C45AA2E0E18C1CD3EE89.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2020.06.28-23.07.10:441][160]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.095
+[2020.06.28-23.07.10:441][160]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.095
+[2020.06.28-23.07.10:441][160]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Assassin] ([1] browsable assets)...
+[2020.06.28-23.07.10:463][160]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Assassin.Assassin]
+[2020.06.28-23.07.10:464][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Assassin]
+[2020.06.28-23.07.10:524][160]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/Assassin_Auto2A62B355740EDBBC9C3F8B888A0E8E255.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Assassin_Auto2.uasset'
+[2020.06.28-23.07.10:525][160]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Interface/NewInterface] ([1] browsable assets)...
+[2020.06.28-23.07.10:525][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Interface/NewInterface]
+[2020.06.28-23.07.10:643][160]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/NewInterface_Auto2F56F026447E1F5076771DCBA29CB3372.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Interface/NewInterface_Auto2.uasset'
+[2020.06.28-23.07.10:644][160]LogFileHelpers: Auto-saving content packages took 0.202
+[2020.06.28-23.12.19:709][310]LogEditorTransaction: Undo Move Nodes
+[2020.06.28-23.12.20:026][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.12.20:027][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.12.20:033][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.12.20:036][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.12.27:127][ 56]LogEditorTransaction: Undo Promote To Variable
+[2020.06.28-23.12.27:486][ 56]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.12.27:487][ 56]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.12.27:491][ 56]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.12.27:493][ 56]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.13.30:635][186]LogEditorTransaction: Undo Move Node
+[2020.06.28-23.13.30:971][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.13.30:972][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.13.30:977][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.13.30:979][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.14.03:220][838]BlueprintLog: New page: Compile Assassin
+[2020.06.28-23.14.03:305][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.06.28-23.14.52:299][113]LogEditorTransaction: Undo Move Nodes
+[2020.06.28-23.14.52:614][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.14.52:616][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.14.52:621][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.14.52:623][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.15.04:273][786]BlueprintLog: New page: Compile Assassin
+[2020.06.28-23.15.04:353][786]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.06.28-23.15.13:237][ 81]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/NewInterface425632BC4176BF79CA606AB9B59BC8DB.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Blueprints/Interface/NewInterface.uasset'
+[2020.06.28-23.15.13:258][ 81]AssetCheck: New page: Asset Save: NewInterface
+[2020.06.28-23.15.13:258][ 81]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Interface/NewInterface.NewInterface
+[2020.06.28-23.16.18:670][753]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2020.06.28-23.16.18:734][753]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.06.28-23.16.20:465][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Assassin" FILE="../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Blueprints/Assassin.uasset" SILENT=true
+[2020.06.28-23.16.20:526][931]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/AssassinFC99D10A4E2F78D68EFF67A5FBDC8F70.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Blueprints/Assassin.uasset'
+[2020.06.28-23.16.20:542][931]AssetCheck: New page: Asset Save: Assassin
+[2020.06.28-23.16.20:542][931]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Assassin.Assassin
+[2020.06.28-23.16.22:527][148]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.06.28-23.16.22:589][148]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/ThirdPersonExampleMapD8FEF13A45908F4FA7B778A6D5DDE60D.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.06.28-23.16.22:706][148]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/ThirdPersonExampleMap_BuiltData56DF38454C76A9FD3252769E86D4F550.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.06.28-23.16.22:726][148]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.28-23.16.22:726][148]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.06.28-23.16.22:726][148]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.06.28-23.16.26:892][622]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animation/Assassin/Climb.Climb
+[2020.06.28-23.16.27:238][622]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.16.27:238][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.16.35:949][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Assassin/Climb" FILE="../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Animation/Assassin/Climb.uasset" SILENT=true
+[2020.06.28-23.16.35:972][971]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/Climb05FC75BC420CD6AC9F9E50BBFC3AA95F.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Animation/Assassin/Climb.uasset'
+[2020.06.28-23.16.35:986][971]AssetCheck: New page: Asset Save: Climb
+[2020.06.28-23.16.35:986][971]LogContentValidation: Display: Validating AnimSequence /Game/Animation/Assassin/Climb.Climb
+[2020.06.28-23.16.56:876][219]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.06.28-23.16.58:767][219]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.28-23.17.01:968][219]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Animation/Assassin/Climb_Composite.Climb_Composite
+[2020.06.28-23.17.04:392][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.06.28-23.17.14:129][ 13]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animation/Assassin/Climb_Montage.Climb_Montage
+[2020.06.28-23.17.14:388][ 13]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.17.14:388][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.17.42:006][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Assassin/Climb_Montage" FILE="../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Animation/Assassin/Climb_Montage.uasset" SILENT=true
+[2020.06.28-23.17.42:015][751]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/Climb_Montage5670728549BE470070A697A127695768.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Animation/Assassin/Climb_Montage.uasset'
+[2020.06.28-23.17.42:048][751]AssetCheck: New page: Asset Save: Climb_Montage
+[2020.06.28-23.17.42:048][751]LogContentValidation: Display: Validating AnimMontage /Game/Animation/Assassin/Climb_Montage.Climb_Montage
+[2020.06.28-23.17.52:173][123]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.17.52:173][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.17.52:735][123]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.17.52:735][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.17.56:140][477]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/ThirdPerson_AnimBPE6D86528405A1359BD0868B0435C237A.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2020.06.28-23.17.56:157][477]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2020.06.28-23.17.56:157][477]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.06.28-23.19.39:998][983]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2020.06.28-23.19.40:133][983]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.06.28-23.19.40:534][ 18]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/ThirdPerson_AnimBPF548883442FA499B1336CE8136C4BB75.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2020.06.28-23.19.40:551][ 18]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2020.06.28-23.19.40:551][ 18]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.06.28-23.19.45:501][344]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animation/Assassin/Climb_Montage.Climb_Montage
+[2020.06.28-23.19.45:504][344]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.19.45:527][344]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.28-23.22.45:858][715]Cmd: TRANSACTION UNDO
+[2020.06.28-23.22.45:876][715]LogEditorTransaction: Undo Rename Notify Track to 'ClimbingEnd'
+[2020.06.28-23.22.46:149][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.22.46:150][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.22.46:154][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.22.46:160][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.23.20:569][792]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.06.28-23.23.32:118][159]Cmd: TRANSACTION UNDO
+[2020.06.28-23.23.32:118][159]LogEditorTransaction: Undo Add New Anim Notify
+[2020.06.28-23.23.32:423][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.23.32:425][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.23.32:431][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.23.32:433][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.28-23.23.59:688][676]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.23.59:688][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.24.06:032][428]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.24.06:032][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.24.14:391][425]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.24.14:392][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.24.34:322][771]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.24.34:322][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.24.46:026][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Assassin/Climb_Montage" FILE="../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Animation/Assassin/Climb_Montage.uasset" SILENT=true
+[2020.06.28-23.24.46:074][148]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/Climb_Montage0B6325104F10D71762F0928571C0BD01.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Animation/Assassin/Climb_Montage.uasset'
+[2020.06.28-23.24.46:090][148]AssetCheck: New page: Asset Save: Climb_Montage
+[2020.06.28-23.24.46:090][148]LogContentValidation: Display: Validating AnimMontage /Game/Animation/Assassin/Climb_Montage.Climb_Montage
+[2020.06.28-23.25.07:519][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Assassin/Climb_Montage" FILE="../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Animation/Assassin/Climb_Montage.uasset" SILENT=true
+[2020.06.28-23.25.07:532][463]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/Climb_Montage6932224841E078CAABEC0CA70F9EFC00.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Animation/Assassin/Climb_Montage.uasset'
+[2020.06.28-23.25.07:547][463]AssetCheck: New page: Asset Save: Climb_Montage
+[2020.06.28-23.25.07:547][463]LogContentValidation: Display: Validating AnimMontage /Game/Animation/Assassin/Climb_Montage.Climb_Montage
+[2020.06.28-23.27.09:456][230]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2020.06.28-23.27.09:600][230]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.06.28-23.27.37:383][741]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.06.28-23.27.37:384][741]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.037
+[2020.06.28-23.27.37:384][741]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2020.06.28-23.27.37:395][741]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2020.06.28-23.27.37:395][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2020.06.28-23.27.37:448][741]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/ThirdPerson_AnimBP_Auto3E42477914ED69146D2F5BFA8D3301EAE.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto3.uasset'
+[2020.06.28-23.27.37:449][741]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2020.06.28-23.27.37:449][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2020.06.28-23.27.37:465][741]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/UE4_Mannequin_Skeleton_Auto3CFA8FC0A4065B5A497845DA8CEE61EF3.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto3.uasset'
+[2020.06.28-23.27.37:466][741]LogFileHelpers: Auto-saving content packages took 0.082
+[2020.06.28-23.27.39:451][945]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/ThirdPerson_AnimBP6561220C45C3A278CC9FCEADE444C7CA.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2020.06.28-23.27.39:469][945]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2020.06.28-23.27.39:469][945]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.06.28-23.27.41:627][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.06.28-23.27.41:687][162]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/ThirdPersonExampleMap7EE604FB46146A4AC87F81B99382C357.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.06.28-23.27.41:805][162]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/ThirdPersonExampleMap_BuiltData10596C2042902BB1C92B53BDAE22877B.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.06.28-23.27.41:828][162]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.28-23.27.41:828][162]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.06.28-23.27.41:828][162]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.06.28-23.30.14:940][981]BlueprintLog: New page: Compile Assassin
+[2020.06.28-23.30.15:019][981]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.06.28-23.30.15:817][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.28-23.30.15:833][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.28-23.30.15:833][ 63]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 29, 2020, 7:30:15 PM)
+[2020.06.28-23.30.15:833][ 63]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.30.15:843][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009440s)
+[2020.06.28-23.30.15:844][ 63]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.28-23.30.15:844][ 63]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017F56565600), frame # 183063
+[2020.06.28-23.30.15:844][ 63]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017E438520C0), frame # 183063
+[2020.06.28-23.30.15:844][ 63]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2020.06.28-23.30.15:844][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010735s)
+[2020.06.28-23.30.15:884][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.06.28-23.30.15:885][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.28-23.30.15:885][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.28-23.30.15:885][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.28-23.30.15:885][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.28-23.30.15:885][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.28-23.30.15:885][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.28-23.30.15:885][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.28-23.30.15:885][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.28-23.30.15:885][ 63]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.28-23.30.15:885][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.28-23.30.15:891][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.28-23.30.15:891][ 63]LogAudioMixer: Display: 1: FrontRight
+[2020.06.28-23.30.15:908][ 63]LogAudioMixer: Display: Using Audio Device Speakers (RIG 800HD)
+[2020.06.28-23.30.15:908][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.28-23.30.15:908][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.28-23.30.15:908][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.28-23.30.15:908][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.28-23.30.15:917][ 63]LogInit: FAudioDevice initialized.
+[2020.06.28-23.30.15:967][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.30.15:968][ 63]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.28-23.30.15:969][ 63]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-09.30.15
+[2020.06.28-23.30.15:970][ 63]LogWorld: Bringing up level for play took: 0.001746
+[2020.06.28-23.30.15:970][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2020.06.28-23.30.15:976][ 63]PIE: Server logged in
+[2020.06.28-23.30.15:978][ 63]PIE: Play in editor total start time 0.145 seconds.
+[2020.06.28-23.30.56:537][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.30.56:537][901]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.30.56:537][901]LogSlate: Window 'Prototype Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.06.28-23.30.56:542][901]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.30.56:543][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.30.56:547][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.28-23.30.56:554][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.30.56:596][901]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017E438520C0), frame # 187901
+[2020.06.28-23.30.56:596][901]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017F56565600), frame # 187901
+[2020.06.28-23.30.56:600][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.06.28-23.30.56:635][902]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.06.28-23.32.23:588][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Assassin" FILE="../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Blueprints/Assassin.uasset" SILENT=true
+[2020.06.28-23.32.23:648][ 32]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/Assassin76BE9E4A4368BCFAB518119765733AB8.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Blueprints/Assassin.uasset'
+[2020.06.28-23.32.23:665][ 32]AssetCheck: New page: Asset Save: Assassin
+[2020.06.28-23.32.23:666][ 32]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Assassin.Assassin
+[2020.06.28-23.32.24:759][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.06.28-23.32.24:787][146]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/ThirdPersonExampleMap1453F49B409DD9738A7C18B05D9BAB45.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.06.28-23.32.24:898][146]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/ThirdPersonExampleMap_BuiltData0B9172104454FAF4E9B6DBBDF4F2BABE.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.06.28-23.32.24:921][146]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.28-23.32.24:921][146]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.06.28-23.32.24:921][146]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.06.28-23.32.25:861][248]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animation/Assassin/Climb.Climb
+[2020.06.28-23.32.25:988][248]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.06.28-23.32.47:478][ 86]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animation/Assassin/Crouch_to_Stand.Crouch_to_Stand
+[2020.06.28-23.32.47:629][ 86]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.32.47:630][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.32.53:473][721]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/Crouch_to_StandC1DFED4F492E304FD7ABB29369E08C6B.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Animation/Assassin/Crouch_to_Stand.uasset'
+[2020.06.28-23.32.53:488][721]AssetCheck: New page: Asset Save: Crouch_to_Stand
+[2020.06.28-23.32.53:488][721]LogContentValidation: Display: Validating AnimSequence /Game/Animation/Assassin/Crouch_to_Stand.Crouch_to_Stand
+[2020.06.28-23.33.26:097][692]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/UE4_Mannequin_Skeleton67F5C5EE4AC6FA09DAF641B208C2BC97.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2020.06.28-23.33.26:115][692]AssetCheck: New page: Asset Save: UE4_Mannequin_Skeleton
+[2020.06.28-23.33.26:115][692]LogContentValidation: Display: Validating Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2020.06.28-23.33.28:364][938]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animation/Assassin/Climb_Montage.Climb_Montage
+[2020.06.28-23.33.28:467][938]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.33.28:467][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.34.47:576][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Assassin/Climb_Montage" FILE="../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Animation/Assassin/Climb_Montage.uasset" SILENT=true
+[2020.06.28-23.34.47:620][752]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/Climb_MontageFB42D0DA46A5E820C146938CA8570B6D.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Animation/Assassin/Climb_Montage.uasset'
+[2020.06.28-23.34.47:639][752]AssetCheck: New page: Asset Save: Climb_Montage
+[2020.06.28-23.34.47:639][752]LogContentValidation: Display: Validating AnimMontage /Game/Animation/Assassin/Climb_Montage.Climb_Montage
+[2020.06.28-23.34.58:305][177]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.28-23.34.58:319][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.28-23.34.58:320][177]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 29, 2020, 7:34:58 PM)
+[2020.06.28-23.34.58:320][177]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.34.58:330][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009913s)
+[2020.06.28-23.34.58:331][177]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.28-23.34.58:331][177]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017F6ADCFC00), frame # 196177
+[2020.06.28-23.34.58:331][177]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F269D1440), frame # 196177
+[2020.06.28-23.34.58:331][177]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2020.06.28-23.34.58:331][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011229s)
+[2020.06.28-23.34.58:450][177]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.06.28-23.34.58:452][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.28-23.34.58:452][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.28-23.34.58:452][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.28-23.34.58:452][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.28-23.34.58:452][177]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.28-23.34.58:452][177]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.28-23.34.58:452][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.28-23.34.58:452][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.28-23.34.58:453][177]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.28-23.34.58:453][177]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.28-23.34.58:457][177]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.28-23.34.58:457][177]LogAudioMixer: Display: 1: FrontRight
+[2020.06.28-23.34.58:474][177]LogAudioMixer: Display: Using Audio Device Speakers (RIG 800HD)
+[2020.06.28-23.34.58:475][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.28-23.34.58:475][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.28-23.34.58:475][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.28-23.34.58:475][177]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.28-23.34.58:484][177]LogInit: FAudioDevice initialized.
+[2020.06.28-23.34.58:499][177]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.28-23.34.58:501][177]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-09.34.58
+[2020.06.28-23.34.58:501][177]LogWorld: Bringing up level for play took: 0.001404
+[2020.06.28-23.34.58:502][177]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2020.06.28-23.34.58:521][177]PIE: Server logged in
+[2020.06.28-23.34.58:521][177]PIE: Play in editor total start time 0.202 seconds.
+[2020.06.28-23.35.07:486][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.35.07:486][238]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.35.07:487][238]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.35.07:487][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.35.07:496][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.28-23.35.07:503][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.35.07:548][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.35.07:548][238]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F269D1440), frame # 197238
+[2020.06.28-23.35.07:548][238]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017F6ADCFC00), frame # 197238
+[2020.06.28-23.35.07:552][238]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.06.28-23.35.07:584][239]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2020.06.28-23.38.21:787][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Assassin/Climb_Montage" FILE="../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Animation/Assassin/Climb_Montage.uasset" SILENT=true
+[2020.06.28-23.38.21:805][619]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/Climb_Montage6EFF8E904004C3685A5D67B981D77357.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/Animation/Assassin/Climb_Montage.uasset'
+[2020.06.28-23.38.21:822][619]AssetCheck: New page: Asset Save: Climb_Montage
+[2020.06.28-23.38.21:822][619]LogContentValidation: Display: Validating AnimMontage /Game/Animation/Assassin/Climb_Montage.Climb_Montage
+[2020.06.28-23.38.23:201][773]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.28-23.38.23:218][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.28-23.38.23:218][773]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 29, 2020, 7:38:23 PM)
+[2020.06.28-23.38.23:218][773]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.38.23:227][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009076s)
+[2020.06.28-23.38.23:228][773]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.28-23.38.23:228][773]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017F6B00E800), frame # 199773
+[2020.06.28-23.38.23:228][773]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017E2E07A980), frame # 199773
+[2020.06.28-23.38.23:228][773]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2020.06.28-23.38.23:229][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010529s)
+[2020.06.28-23.38.23:265][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.06.28-23.38.23:267][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.28-23.38.23:267][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.28-23.38.23:267][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.28-23.38.23:268][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.28-23.38.23:268][773]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.28-23.38.23:268][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.28-23.38.23:268][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.28-23.38.23:268][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.28-23.38.23:268][773]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.28-23.38.23:268][773]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.28-23.38.23:273][773]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.28-23.38.23:273][773]LogAudioMixer: Display: 1: FrontRight
+[2020.06.28-23.38.23:290][773]LogAudioMixer: Display: Using Audio Device Speakers (RIG 800HD)
+[2020.06.28-23.38.23:290][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.28-23.38.23:290][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.28-23.38.23:290][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.28-23.38.23:290][773]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.28-23.38.23:299][773]LogInit: FAudioDevice initialized.
+[2020.06.28-23.38.23:305][773]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.28-23.38.23:306][773]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-09.38.23
+[2020.06.28-23.38.23:307][773]LogWorld: Bringing up level for play took: 0.001406
+[2020.06.28-23.38.23:307][773]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2020.06.28-23.38.23:309][773]PIE: Server logged in
+[2020.06.28-23.38.23:310][773]PIE: Play in editor total start time 0.092 seconds.
+[2020.06.28-23.39.21:626][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.39.21:626][759]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.39.21:626][759]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.39.21:626][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.39.21:632][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.28-23.39.21:638][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.39.21:679][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.39.21:679][759]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017E2E07A980), frame # 206759
+[2020.06.28-23.39.21:679][759]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017F6B00E800), frame # 206759
+[2020.06.28-23.39.21:683][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.06.28-23.39.21:717][760]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2020.06.28-23.39.23:525][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.06.28-23.39.25:175][132]Cmd: EDIT COPY
+[2020.06.28-23.39.25:703][132]Cmd: EDIT PASTE
+[2020.06.28-23.39.30:737][670]Cmd: EDIT COPY
+[2020.06.28-23.39.30:964][696]Cmd: EDIT PASTE
+[2020.06.28-23.39.33:814][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.28-23.39.33:828][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.28-23.39.33:828][ 14]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 29, 2020, 7:39:33 PM)
+[2020.06.28-23.39.33:829][ 14]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.39.33:837][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009500s)
+[2020.06.28-23.39.33:838][ 14]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.28-23.39.33:838][ 14]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017E20B6AC00), frame # 208014
+[2020.06.28-23.39.33:838][ 14]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F2D7634C0), frame # 208014
+[2020.06.28-23.39.33:838][ 14]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2020.06.28-23.39.33:838][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010852s)
+[2020.06.28-23.39.33:873][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.06.28-23.39.33:875][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.28-23.39.33:875][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.28-23.39.33:875][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.28-23.39.33:875][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.28-23.39.33:875][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.28-23.39.33:875][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.28-23.39.33:875][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.28-23.39.33:875][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.28-23.39.33:875][ 14]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.28-23.39.33:875][ 14]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.28-23.39.33:879][ 14]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.28-23.39.33:879][ 14]LogAudioMixer: Display: 1: FrontRight
+[2020.06.28-23.39.33:894][ 14]LogAudioMixer: Display: Using Audio Device Speakers (RIG 800HD)
+[2020.06.28-23.39.33:894][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.28-23.39.33:895][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.28-23.39.33:895][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.28-23.39.33:895][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.28-23.39.33:904][ 14]LogInit: FAudioDevice initialized.
+[2020.06.28-23.39.33:911][ 14]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.28-23.39.33:913][ 14]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-09.39.33
+[2020.06.28-23.39.33:913][ 14]LogWorld: Bringing up level for play took: 0.001681
+[2020.06.28-23.39.33:913][ 14]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2020.06.28-23.39.33:916][ 14]PIE: Server logged in
+[2020.06.28-23.39.33:916][ 14]PIE: Play in editor total start time 0.09 seconds.
+[2020.06.28-23.39.45:937][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.39.45:937][448]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.39.45:937][448]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.39.45:937][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.39.45:947][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.28-23.39.45:953][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.39.45:993][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.39.45:994][448]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F2D7634C0), frame # 209448
+[2020.06.28-23.39.45:994][448]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017E20B6AC00), frame # 209448
+[2020.06.28-23.39.45:997][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.06.28-23.39.46:031][449]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2020.06.28-23.39.47:330][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.06.28-23.39.51:598][ 74]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.28-23.39.51:612][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.28-23.39.51:613][ 74]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 29, 2020, 7:39:51 PM)
+[2020.06.28-23.39.51:613][ 74]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.39.51:623][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009907s)
+[2020.06.28-23.39.51:624][ 74]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.28-23.39.51:624][ 74]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017F6ADCD200), frame # 210074
+[2020.06.28-23.39.51:624][ 74]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F5F9AD1C0), frame # 210074
+[2020.06.28-23.39.51:624][ 74]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2020.06.28-23.39.51:624][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011203s)
+[2020.06.28-23.39.51:660][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.06.28-23.39.51:662][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.28-23.39.51:662][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.28-23.39.51:662][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.28-23.39.51:662][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.28-23.39.51:662][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.28-23.39.51:662][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.28-23.39.51:662][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.28-23.39.51:662][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.28-23.39.51:663][ 74]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.28-23.39.51:663][ 74]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.28-23.39.51:668][ 74]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.28-23.39.51:668][ 74]LogAudioMixer: Display: 1: FrontRight
+[2020.06.28-23.39.51:682][ 74]LogAudioMixer: Display: Using Audio Device Speakers (RIG 800HD)
+[2020.06.28-23.39.51:682][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.28-23.39.51:682][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.28-23.39.51:682][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.28-23.39.51:683][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.28-23.39.51:692][ 74]LogInit: FAudioDevice initialized.
+[2020.06.28-23.39.51:697][ 74]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.28-23.39.51:699][ 74]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-09.39.51
+[2020.06.28-23.39.51:699][ 74]LogWorld: Bringing up level for play took: 0.001480
+[2020.06.28-23.39.51:699][ 74]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2020.06.28-23.39.51:702][ 74]PIE: Server logged in
+[2020.06.28-23.39.51:702][ 74]PIE: Play in editor total start time 0.09 seconds.
+[2020.06.28-23.40.07:666][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.40.07:666][981]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.40.07:666][981]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.40.07:667][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.40.07:671][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.28-23.40.07:677][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.40.07:706][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.40.07:717][981]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F5F9AD1C0), frame # 211981
+[2020.06.28-23.40.07:717][981]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017F6ADCD200), frame # 211981
+[2020.06.28-23.40.07:720][981]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.06.28-23.40.07:752][982]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2020.06.28-23.40.10:532][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.06.28-23.40.13:698][646]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.28-23.40.13:713][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.28-23.40.13:713][646]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 29, 2020, 7:40:13 PM)
+[2020.06.28-23.40.13:714][646]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.40.13:722][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009273s)
+[2020.06.28-23.40.13:723][646]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.28-23.40.13:723][646]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017E56E8EE00), frame # 212646
+[2020.06.28-23.40.13:723][646]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017E2E078F40), frame # 212646
+[2020.06.28-23.40.13:724][646]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2020.06.28-23.40.13:724][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011207s)
+[2020.06.28-23.40.13:758][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.06.28-23.40.13:760][646]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.28-23.40.13:760][646]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.28-23.40.13:760][646]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.28-23.40.13:760][646]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.28-23.40.13:760][646]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.28-23.40.13:760][646]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.28-23.40.13:760][646]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.28-23.40.13:760][646]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.28-23.40.13:761][646]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.28-23.40.13:761][646]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.28-23.40.13:765][646]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.28-23.40.13:765][646]LogAudioMixer: Display: 1: FrontRight
+[2020.06.28-23.40.13:780][646]LogAudioMixer: Display: Using Audio Device Speakers (RIG 800HD)
+[2020.06.28-23.40.13:780][646]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.28-23.40.13:780][646]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.28-23.40.13:780][646]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.28-23.40.13:780][646]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.28-23.40.13:789][646]LogInit: FAudioDevice initialized.
+[2020.06.28-23.40.13:795][646]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.28-23.40.13:797][646]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-09.40.13
+[2020.06.28-23.40.13:797][646]LogWorld: Bringing up level for play took: 0.001443
+[2020.06.28-23.40.13:797][646]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2020.06.28-23.40.13:799][646]PIE: Server logged in
+[2020.06.28-23.40.13:800][646]PIE: Play in editor total start time 0.088 seconds.
+[2020.06.28-23.40.21:915][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.40.21:916][612]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.40.21:916][612]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.40.21:916][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.40.21:925][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.28-23.40.21:931][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.40.21:962][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.40.21:974][612]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017E2E078F40), frame # 213612
+[2020.06.28-23.40.21:974][612]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017E56E8EE00), frame # 213612
+[2020.06.28-23.40.21:977][612]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.06.28-23.40.22:010][613]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2020.06.28-23.40.22:857][705]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.28-23.40.22:871][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.28-23.40.22:871][705]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 29, 2020, 7:40:22 PM)
+[2020.06.28-23.40.22:871][705]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.40.22:880][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009069s)
+[2020.06.28-23.40.22:881][705]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.28-23.40.22:881][705]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017E56E22A00), frame # 213705
+[2020.06.28-23.40.22:881][705]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F2EDB1D00), frame # 213705
+[2020.06.28-23.40.22:881][705]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2020.06.28-23.40.22:881][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010359s)
+[2020.06.28-23.40.22:917][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.06.28-23.40.22:918][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.28-23.40.22:918][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.28-23.40.22:918][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.28-23.40.22:918][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.28-23.40.22:918][705]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.28-23.40.22:918][705]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.28-23.40.22:918][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.28-23.40.22:918][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.28-23.40.22:918][705]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.28-23.40.22:918][705]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.28-23.40.22:923][705]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.28-23.40.22:923][705]LogAudioMixer: Display: 1: FrontRight
+[2020.06.28-23.40.22:937][705]LogAudioMixer: Display: Using Audio Device Speakers (RIG 800HD)
+[2020.06.28-23.40.22:937][705]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.28-23.40.22:937][705]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.28-23.40.22:937][705]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.28-23.40.22:937][705]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.28-23.40.22:946][705]LogInit: FAudioDevice initialized.
+[2020.06.28-23.40.22:954][705]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.28-23.40.22:956][705]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-09.40.22
+[2020.06.28-23.40.22:956][705]LogWorld: Bringing up level for play took: 0.001462
+[2020.06.28-23.40.22:956][705]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.06.28-23.40.22:958][705]PIE: Server logged in
+[2020.06.28-23.40.22:958][705]PIE: Play in editor total start time 0.089 seconds.
+[2020.06.28-23.40.24:426][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.40.24:426][874]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.40.24:426][874]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.40.24:426][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.40.24:434][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.28-23.40.24:440][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.40.24:469][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.40.24:481][874]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F2EDB1D00), frame # 213874
+[2020.06.28-23.40.24:481][874]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017E56E22A00), frame # 213874
+[2020.06.28-23.40.24:485][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.06.28-23.40.24:518][875]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.06.28-23.40.27:544][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.06.28-23.40.29:908][467]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.28-23.40.29:922][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.28-23.40.29:922][467]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 29, 2020, 7:40:29 PM)
+[2020.06.28-23.40.29:922][467]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.40.29:933][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010901s)
+[2020.06.28-23.40.29:934][467]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.28-23.40.29:934][467]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017EF3AA1000), frame # 214467
+[2020.06.28-23.40.29:934][467]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017E2D5560C0), frame # 214467
+[2020.06.28-23.40.29:935][467]LogPlayLevel: PIE: World Init took: (0.001370s)
+[2020.06.28-23.40.29:935][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012402s)
+[2020.06.28-23.40.29:969][467]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.06.28-23.40.29:971][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.28-23.40.29:971][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.28-23.40.29:971][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.28-23.40.29:971][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.28-23.40.29:971][467]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.28-23.40.29:971][467]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.28-23.40.29:971][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.28-23.40.29:971][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.28-23.40.29:971][467]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.28-23.40.29:971][467]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.28-23.40.29:976][467]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.28-23.40.29:976][467]LogAudioMixer: Display: 1: FrontRight
+[2020.06.28-23.40.29:990][467]LogAudioMixer: Display: Using Audio Device Speakers (RIG 800HD)
+[2020.06.28-23.40.29:990][467]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.28-23.40.29:990][467]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.28-23.40.29:990][467]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.28-23.40.29:990][467]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.28-23.40.29:999][467]LogInit: FAudioDevice initialized.
+[2020.06.28-23.40.30:007][467]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.28-23.40.30:008][467]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-09.40.30
+[2020.06.28-23.40.30:009][467]LogWorld: Bringing up level for play took: 0.001381
+[2020.06.28-23.40.30:009][467]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2020.06.28-23.40.30:011][467]PIE: Server logged in
+[2020.06.28-23.40.30:012][467]PIE: Play in editor total start time 0.09 seconds.
+[2020.06.28-23.40.39:706][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.40.39:706][621]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.40.39:706][621]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.40.39:706][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.40.39:716][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.28-23.40.39:721][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.40.39:763][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.40.39:764][621]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017E2D5560C0), frame # 215621
+[2020.06.28-23.40.39:764][621]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017EF3AA1000), frame # 215621
+[2020.06.28-23.40.39:767][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.06.28-23.40.39:802][622]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.06.28-23.40.42:307][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.06.28-23.40.42:366][910]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/ThirdPersonExampleMap35BDE96E4F16D0433DA1DE9AC505A0CA.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.06.28-23.40.42:662][910]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/ThirdPersonExampleMap_BuiltDataEC911F954303DDD313C12CB3EB0278F5.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.06.28-23.40.42:682][910]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.28-23.40.42:682][910]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.06.28-23.40.42:682][910]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.06.28-23.44.46:209][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Assassin" FILE="../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Blueprints/Assassin.uasset" SILENT=true
+[2020.06.28-23.44.46:274][951]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/AssassinF4ECD3AC46CF1A4B098237B22DE84928.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Blueprints/Assassin.uasset'
+[2020.06.28-23.44.46:295][951]AssetCheck: New page: Asset Save: Assassin
+[2020.06.28-23.44.46:295][951]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Assassin.Assassin
+[2020.06.28-23.44.46:657][990]BlueprintLog: New page: Compile Assassin
+[2020.06.28-23.44.46:741][990]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.06.28-23.45.17:025][126]BlueprintLog: New page: Compile Assassin
+[2020.06.28-23.45.17:104][126]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.06.28-23.45.37:187][378]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.28-23.45.37:201][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.28-23.45.37:202][378]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 29, 2020, 7:45:37 PM)
+[2020.06.28-23.45.37:202][378]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.45.37:211][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009527s)
+[2020.06.28-23.45.37:212][378]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.28-23.45.37:212][378]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017F554C2C00), frame # 222378
+[2020.06.28-23.45.37:212][378]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017F5F9ADBC0), frame # 222378
+[2020.06.28-23.45.37:213][378]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2020.06.28-23.45.37:213][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011013s)
+[2020.06.28-23.45.37:249][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.06.28-23.45.37:250][378]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.28-23.45.37:250][378]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.28-23.45.37:250][378]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.28-23.45.37:250][378]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.28-23.45.37:250][378]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.28-23.45.37:250][378]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.28-23.45.37:250][378]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.28-23.45.37:250][378]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.28-23.45.37:251][378]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.28-23.45.37:251][378]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.28-23.45.37:256][378]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.28-23.45.37:256][378]LogAudioMixer: Display: 1: FrontRight
+[2020.06.28-23.45.37:272][378]LogAudioMixer: Display: Using Audio Device Speakers (RIG 800HD)
+[2020.06.28-23.45.37:272][378]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.28-23.45.37:272][378]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.28-23.45.37:272][378]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.28-23.45.37:272][378]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.28-23.45.37:282][378]LogInit: FAudioDevice initialized.
+[2020.06.28-23.45.37:334][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.45.37:334][378]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.28-23.45.37:337][378]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.06.29-09.45.37
+[2020.06.28-23.45.37:338][378]LogWorld: Bringing up level for play took: 0.002634
+[2020.06.28-23.45.37:338][378]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2020.06.28-23.45.37:344][378]PIE: Server logged in
+[2020.06.28-23.45.37:346][378]PIE: Play in editor total start time 0.146 seconds.
+[2020.06.28-23.45.56:885][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.28-23.45.56:885][184]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.28-23.45.56:885][184]LogSlate: Window 'Prototype Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.06.28-23.45.56:890][184]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.28-23.45.56:890][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.45.56:899][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.28-23.45.56:907][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.28-23.45.56:951][184]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017F5F9ADBC0), frame # 224184
+[2020.06.28-23.45.56:951][184]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017F554C2C00), frame # 224184
+[2020.06.28-23.45.56:954][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.06.28-23.45.56:993][185]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2020.06.28-23.45.58:910][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Assassin" FILE="../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Blueprints/Assassin.uasset" SILENT=true
+[2020.06.28-23.45.58:980][375]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/AssassinC63C0FC047975BF006F8489F20220FC9.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Blueprints/Assassin.uasset'
+[2020.06.28-23.45.58:996][375]AssetCheck: New page: Asset Save: Assassin
+[2020.06.28-23.45.58:996][375]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Assassin.Assassin
+[2020.06.28-23.46.00:572][548]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.06.28-23.46.00:606][548]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/ThirdPersonExampleMap968D4BFA422976AF0FD9448AF11C1F61.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.06.28-23.46.00:721][548]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Saved/ThirdPersonExampleMap_BuiltData6665D5594376BC208B36A9BE2A7E2090.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Prototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.06.28-23.46.00:742][548]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.28-23.46.00:742][548]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.06.28-23.46.00:742][548]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
