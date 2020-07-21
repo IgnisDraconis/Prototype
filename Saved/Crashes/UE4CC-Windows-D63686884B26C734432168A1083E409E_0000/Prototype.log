@@ -1,0 +1,1134 @@
+﻿Log file open, 07/22/20 03:39:56
+LogInit: Display: Running engine for game: Prototype
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.238935
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13594126
+LogInit: Engine Version: 4.25.1-13594126+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun  2 2020 02:10:36
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/EpicGames/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.21-17.39.57:904][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Engine.ini]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Engine.ini]
+[2020.07.21-17.39.57:905][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Engine.ini]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Engine.ini]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.21-17.39.57:905][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.21-17.39.57:906][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.21-17.39.57:906][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.21-17.39.57:906][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.21-17.39.57:906][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.21-17.39.57:906][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.21-17.39.57:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Engine.ini]
+[2020.07.21-17.39.57:906][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Engine.ini]
+[2020.07.21-17.39.57:911][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.21-17.39.57:911][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.21-17.39.57:912][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.21-17.39.57:913][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.21-17.39.57:913][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.21-17.39.57:914][  0]LogHAL: Display: Platform has ~ 16 GB [17073156096 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.21-17.39.57:914][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.21-17.39.57:914][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.21-17.39.57:914][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.21-17.39.57:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.21-17.39.57:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.21-17.39.57:916][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:916][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.21-17.39.57:916][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.21-17.39.57:916][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-17.39.57:916][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.21-17.39.57:916][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.21-17.39.57:916][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.21-17.39.57:916][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.21-17.39.57:916][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.21-17.39.57:916][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.21-17.39.57:916][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.21-17.39.57:916][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.21-17.39.57:922][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.21-17.39.57:922][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.21-17.39.57:922][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.07.21-17.39.57:922][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Config/Windows/Engine.ini]
+[2020.07.21-17.39.57:923][  0]LogInit: Computer: LAPTOP-6U3P6J3G
+[2020.07.21-17.39.57:923][  0]LogInit: User: TVGme
+[2020.07.21-17.39.57:923][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.07.21-17.39.57:923][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.21-17.39.57:923][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.07.21-17.39.57:923][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.21-17.39.57:923][  0]LogMemory: Process Physical Memory: 115.15 MB used, 115.16 MB peak
+[2020.07.21-17.39.57:923][  0]LogMemory: Process Virtual Memory: 103.02 MB used, 103.02 MB peak
+[2020.07.21-17.39.57:923][  0]LogMemory: Physical Memory: 10923.24 MB used,  5358.99 MB free, 16282.23 MB total
+[2020.07.21-17.39.57:923][  0]LogMemory: Virtual Memory: 5168.89 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2020.07.21-17.39.57:926][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.21-17.39.58:304][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.07.21-17.39.58:312][  0]LogInit: Using OS detected language (en-US).
+[2020.07.21-17.39.58:312][  0]LogInit: Using OS detected locale (en-US).
+[2020.07.21-17.39.58:341][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.07.21-17.39.59:005][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.21-17.39.59:244][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.21-17.39.59:244][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.21-17.40.02:713][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.07.21-17.40.02:713][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.07.21-17.40.02:713][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.21-17.40.02:798][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.07.21-17.40.02:798][  0]LogD3D11RHI:       5980/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.07.21-17.40.02:849][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.07.21-17.40.02:849][  0]LogD3D11RHI:       128/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.07.21-17.40.02:851][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.21-17.40.02:851][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.21-17.40.02:851][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.21-17.40.02:894][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.21-17.40.02:894][  0]LogD3D11RHI:     GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.21-17.40.02:894][  0]LogWindows: EnumDisplayDevices:
+[2020.07.21-17.40.02:894][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.07.21-17.40.02:895][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.07.21-17.40.02:895][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.07.21-17.40.02:895][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.07.21-17.40.02:896][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.07.21-17.40.02:896][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.07.21-17.40.02:896][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.07.21-17.40.02:896][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.07.21-17.40.02:896][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.07.21-17.40.02:896][  0]LogD3D11RHI:   Driver Version: 451.48 (internal:27.21.14.5148, unified:451.48)
+[2020.07.21-17.40.02:896][  0]LogD3D11RHI:      Driver Date: 6-21-2020
+[2020.07.21-17.40.02:896][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.07.21-17.40.02:953][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.07.21-17.40.02:959][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.07.21-17.40.02:959][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.21-17.40.02:959][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.07.21-17.40.03:006][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.21-17.40.03:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.07.21-17.40.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.07.21-17.40.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.07.21-17.40.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.07.21-17.40.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.07.21-17.40.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.07.21-17.40.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.21-17.40.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.07.21-17.40.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.21-17.40.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.07.21-17.40.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.07.21-17.40.03:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.07.21-17.40.03:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.07.21-17.40.03:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.07.21-17.40.03:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.21-17.40.03:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.07.21-17.40.03:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.07.21-17.40.03:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.07.21-17.40.03:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.07.21-17.40.03:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.07.21-17.40.03:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.07.21-17.40.03:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.07.21-17.40.03:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.07.21-17.40.03:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.07.21-17.40.03:552][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.21-17.40.03:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.07.21-17.40.03:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.07.21-17.40.03:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.07.21-17.40.03:583][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.21-17.40.03:629][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.21-17.40.03:751][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Intermediate/Shaders/WorkingDirectory/19624/).
+[2020.07.21-17.40.03:751][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/TVGme/AppData/Local/Temp/UnrealShaderWorkingDir/91ADD5754182A778086FD1AA8C326BE7/'.
+[2020.07.21-17.40.03:752][  0]LogXGEController: Cleaning working directory: C:/Users/TVGme/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.07.21-17.40.03:753][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.21-17.40.03:753][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.21-17.40.03:753][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.21-17.40.07:027][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.21-17.40.07:122][  0]LogDerivedDataCache: Loaded boot cache 0.09s 76MB C:/Users/TVGme/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.07.21-17.40.07:122][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/TVGme/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.07.21-17.40.07:122][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.21-17.40.07:122][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.21-17.40.07:122][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.21-17.40.07:122][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.21-17.40.07:148][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.21-17.40.07:149][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.21-17.40.07:149][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.21-17.40.07:150][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TVGme/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.21-17.40.07:150][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.21-17.40.07:150][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.21-17.40.07:210][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.21-17.40.07:230][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.21-17.40.07:301][  0]LogAssetRegistry: FAssetRegistry took 0.0059 seconds to start up
+[2020.07.21-17.40.07:752][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.21-17.40.08:083][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.21-17.40.08:083][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.21-17.40.08:083][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.21-17.40.08:083][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.21-17.40.08:083][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.21-17.40.08:155][  0]LogNetVersion: Prototype 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 604875939)
+[2020.07.21-17.40.09:951][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000024E01107BC0), frame # 0
+[2020.07.21-17.40.09:951][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024E0111D1C0), frame # 0
+[2020.07.21-17.40.09:956][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024E01272600), frame # 0
+[2020.07.21-17.40.10:047][  0]LogPackageLocalizationCache: Processed 17 localized package path(s) for 1 prioritized culture(s) in 0.055525 seconds
+[2020.07.21-17.40.10:053][  0]LogUObjectArray: 15756 objects as part of root set at end of initial load.
+[2020.07.21-17.40.10:053][  0]LogUObjectAllocator: 3925280 out of 0 bytes used by permanent object pool.
+[2020.07.21-17.40.10:053][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.21-17.40.11:123][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.21-17.40.11:130][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.21-17.40.11:234][  0]LogLinker: Warning: Failed to load '/Game/TwinStickBP/TwinStickOverview': Can't find file.
+[2020.07.21-17.40.11:234][  0]LogLinker: Warning: Failed to load '/Game/TwinStickBP/TwinStickOverview': Can't find file.
+[2020.07.21-17.40.11:234][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TwinStickBP/TwinStickOverview.TwinStickOverview_C'
+[2020.07.21-17.40.11:357][  0]SourceControl: Source control is disabled
+[2020.07.21-17.40.11:358][  0]SourceControl: Source control is disabled
+[2020.07.21-17.40.11:372][  0]SourceControl: Source control is disabled
+[2020.07.21-17.40.11:382][  0]SourceControl: Source control is disabled
+[2020.07.21-17.40.11:404][  0]SourceControl: Source control is disabled
+[2020.07.21-17.40.12:255][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.21-17.40.12:309][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.21-17.40.12:310][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.21-17.40.12:606][  0]LogEngine: Initializing Engine...
+[2020.07.21-17.40.12:608][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.07.21-17.40.12:612][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.07.21-17.40.13:148][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.21-17.40.13:200][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.21-17.40.13:200][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024E19960600), frame # 0
+[2020.07.21-17.40.13:201][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024E19952340), frame # 0
+[2020.07.21-17.40.13:223][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.21-17.40.13:223][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.21-17.40.13:223][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.21-17.40.13:223][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.21-17.40.13:223][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.21-17.40.13:223][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.21-17.40.13:223][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.21-17.40.13:223][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.21-17.40.13:226][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.21-17.40.13:226][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.21-17.40.13:264][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.21-17.40.13:264][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.21-17.40.13:328][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.07.21-17.40.13:333][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.21-17.40.13:367][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.21-17.40.13:367][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.21-17.40.13:369][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.21-17.40.13:371][  0]LogInit: FAudioDevice initialized.
+[2020.07.21-17.40.13:372][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.21-17.40.13:511][  0]LogDerivedDataCache: Saved boot cache 0.14s 75MB C:/Users/TVGme/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.07.21-17.40.13:516][  0]LogInit: Texture streaming: Enabled
+[2020.07.21-17.40.13:551][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.21-17.40.13:551][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.21-17.40.13:554][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.21-17.40.13:666][  0]LogInit: Transaction tracking system initialized
+[2020.07.21-17.40.13:720][  0]BlueprintLog: New page: Editor Load
+[2020.07.21-17.40.13:902][  0]LocalizationService: Localization service is disabled
+[2020.07.21-17.40.14:761][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.21-17.40.14:762][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.21-17.40.15:480][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TVGme/Desktop/ShitKraken/Prototype/Content/' took 0.03s
+[2020.07.21-17.40.15:480][  0]SourceControl: Source control is disabled
+[2020.07.21-17.40.15:480][  0]LogUnrealEdMisc: Loading editor; pre map load, took 25.330
+[2020.07.21-17.40.15:482][  0]Cmd: MAP LOAD FILE="../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.21-17.40.15:493][  0]LightingResults: New page: Lighting Build
+[2020.07.21-17.40.15:500][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.21-17.40.15:501][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.21-17.40.15:503][  0]MapCheck: New page: Map Check
+[2020.07.21-17.40.15:503][  0]LightingResults: New page: Lighting Build
+[2020.07.21-17.40.15:533][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024E19960600), frame # 0
+[2020.07.21-17.40.15:533][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024E19952340), frame # 0
+[2020.07.21-17.40.15:535][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.07.21-17.40.16:481][  0]LogBlueprint: Warning: [Compiler Assassin] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.07.21-17.40.16:481][  0]LogBlueprint: Warning: [Compiler Assassin] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.07.21-17.40.16:482][  0]LogBlueprint: Warning: [Compiler Assassin] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.07.21-17.40.16:482][  0]LogBlueprint: Warning: [Compiler Assassin] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.07.21-17.40.16:482][  0]LogBlueprint: Warning: [Compiler Assassin] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.07.21-17.40.16:492][  0]LogBlueprint: Warning: [Compiler Assassin] Get Input Axis references unknown Axis 'MoveRight' for  Get MoveRight
+[2020.07.21-17.40.16:492][  0]LogBlueprint: Warning: [Compiler Assassin] Get Input Axis references unknown Axis 'MoveRight' for  Get MoveRight
+[2020.07.21-17.40.16:497][  0]LogBlueprint: Warning: [Compiler Gunslinger] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.07.21-17.40.16:497][  0]LogBlueprint: Warning: [Compiler Gunslinger] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2020.07.21-17.40.16:498][  0]LogBlueprint: Warning: [Compiler Gunslinger] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.07.21-17.40.16:498][  0]LogBlueprint: Warning: [Compiler Gunslinger] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.07.21-17.40.16:498][  0]LogBlueprint: Warning: [Compiler Gunslinger] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.07.21-17.40.16:498][  0]LogBlueprint: Warning: [Compiler Gunslinger] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.07.21-17.40.16:498][  0]LogBlueprint: Warning: [Compiler Gunslinger] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.07.21-17.40.17:174][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.21-17.40.17:174][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024E0A04BE00), frame # 0
+[2020.07.21-17.40.17:174][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024E0A959D00), frame # 0
+[2020.07.21-17.40.17:246][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.21-17.40.17:276][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.07.21-17.40.17:277][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.21-17.40.17:277][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.474ms to complete.
+[2020.07.21-17.40.17:277][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.797
+[2020.07.21-17.40.17:322][  0]LogUnrealEdMisc: Total Editor Startup Time, took 27.172
+[2020.07.21-17.40.17:591][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.21-17.40.17:602][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.21-17.40.17:610][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.21-17.40.17:618][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.21-17.40.17:641][  0]LogCollectionManager: Loaded 0 collections in 0.002406 seconds
+[2020.07.21-17.40.17:700][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Collections/' took 0.00s
+[2020.07.21-17.40.17:700][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TVGme/Desktop/ShitKraken/Prototype/Content/Developers/TVGme/Collections/' took 0.00s
+[2020.07.21-17.40.17:700][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TVGme/Desktop/ShitKraken/Prototype/Content/Collections/' took 0.00s
+[2020.07.21-17.40.17:700][  0]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 3407 classes and 805 folders.
+[2020.07.21-17.40.17:730][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.21-17.40.18:234][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.21-17.40.18:244][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 2 classes and 0 folders.
+[2020.07.21-17.40.18:433][  0]LogSlate: Took 0.006285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.21-17.40.18:445][  0]LogSlate: Took 0.006217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.21-17.40.18:462][  0]LogSlate: Took 0.006962 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.21-17.40.18:668][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.07.21-17.40.18:892][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.21-17.40.18:892][  0]LogLoad: (Engine Initialization) Total time: 28.74 seconds
+[2020.07.21-17.40.18:892][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.21-17.40.18:968][  0]LogAssetRegistry: Asset discovery search completed in 11.6693 seconds
+[2020.07.21-17.40.18:975][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000202 seconds (updated 0 objects)
+[2020.07.21-17.40.19:005][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.21-17.40.19:063][  0]LogSlate: Took 0.007040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.21-17.40.44:329][497]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.21-17.40.48:186][497]LogSkeletalMesh: Building Skeletal Mesh Mannequin...
+[2020.07.21-17.40.48:251][497]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.Mannequin
+[2020.07.21-17.40.48:420][497]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AdvancedLocomotionV3/Maps/ALSV3_DemoLevel_SP.ALSV3_DemoLevel_SP
+[2020.07.21-17.40.48:455][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.07.21-17.40.48:456][497]Cmd: MAP LOAD FILE="../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/AdvancedLocomotionV3/Maps/ALSV3_DemoLevel_SP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.21-17.40.48:456][497]LightingResults: New page: Lighting Build
+[2020.07.21-17.40.48:456][497]LoadErrors: New page: Loading map: ALSV3_DemoLevel_SP.umap
+[2020.07.21-17.40.48:462][497]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.21-17.40.48:463][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.21-17.40.48:463][497]MapCheck: New page: Map Check
+[2020.07.21-17.40.48:463][497]LightingResults: New page: Lighting Build
+[2020.07.21-17.40.48:479][497]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024E0A04BE00), frame # 1497
+[2020.07.21-17.40.48:479][497]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024E0A959D00), frame # 1497
+[2020.07.21-17.40.48:480][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.07.21-17.40.49:244][497]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.21-17.40.49:244][497]LogAIModule: Creating AISystem for world ALSV3_DemoLevel_SP
+[2020.07.21-17.40.49:244][497]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024E0A109400), frame # 1497
+[2020.07.21-17.40.49:244][497]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024E4BE85BC0), frame # 1497
+[2020.07.21-17.40.49:275][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.07.21-17.40.49:316][497]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.21-17.40.49:316][497]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2020.07.21-17.40.49:316][497]LogFileHelpers: Loading map 'ALSV3_DemoLevel_SP' took 0.860
+[2020.07.21-17.40.58:000][  2]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.41.05:780][350]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\TVGme\Desktop\Shortcuts (1)\BlenderWorkspace\Demosword.fbx)
+[2020.07.21-17.41.05:810][350]LogFbx: Loading FBX Scene from C:\Users\TVGme\Desktop\Shortcuts (1)\BlenderWorkspace\Demosword.fbx
+[2020.07.21-17.41.05:821][350]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.21-17.41.07:354][350]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.21-17.41.07:564][350]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.07.21-17.41.07:620][350]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.07.21-17.41.07:620][350]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.07.21-17.41.07:620][350]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.07.21-17.41.07:620][350]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.07.21-17.41.07:620][350]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.07.21-17.41.07:620][350]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.07.21-17.41.07:620][350]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.07.21-17.41.07:620][350]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.07.21-17.41.07:621][350]LogFbx: Display: Triangulating static mesh SwordMesh
+[2020.07.21-17.41.07:647][350]LogStaticMesh: Building static mesh Demosword...
+[2020.07.21-17.41.07:656][350]LogStaticMesh: Built static mesh [0.01s] /Game/BhandanaDesign/Models/Weapons/Demosword.Demosword
+[2020.07.21-17.41.07:673][350]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.21-17.41.07:804][350]LogSlate: Took 0.013004 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.07.21-17.41.09:638][390]LogSlate: Window 'Message Log' being destroyed
+[2020.07.21-17.41.09:648][390]LogSlate: Window 'Message Log' being destroyed
+[2020.07.21-17.41.16:801][732]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BhandanaDesign/Actors/RPG_Actor.RPG_Actor
+[2020.07.21-17.41.17:373][732]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.07.21-17.41.18:501][732]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.41.18:518][732]LogSlate: Took 0.004801 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.21-17.41.18:762][733]LogSlate: Took 0.006536 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.21-17.41.20:314][811]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.41.20:330][812]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1).
+[2020.07.21-17.41.36:136][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BhandanaDesign/Actors/Weapons/BP_MeleeWeapon.BP_MeleeWeapon
+[2020.07.21-17.41.38:551][843]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.41.38:551][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_MeleeWeapon_C_CHILDACTOR_1.Model) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.07.21-17.41.38:553][843]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.41.38:554][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_MeleeWeapon_C_CHILDACTOR_3.Model) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.07.21-17.41.40:802][963]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.41.40:802][963]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_MeleeWeapon_C_CHILDACTOR_3.Model) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.07.21-17.41.40:806][963]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.41.40:806][963]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_MeleeWeapon_C_CHILDACTOR_5.Model) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.07.21-17.41.46:969][308]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.41.46:972][308]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.41.46:975][308]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.41.46:975][308]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_MeleeWeapon_C_CHILDACTOR_7.Model) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.07.21-17.41.46:977][308]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.41.46:978][308]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_MeleeWeapon_C_CHILDACTOR_9.Model) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.07.21-17.41.47:866][337]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2020.07.21-17.41.49:908][451]LogSavePackage: Moving '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Saved/BP_MeleeWeaponD388F838409BCD07EBD51EA5A6A2EAFB.tmp' to '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/BhandanaDesign/Actors/Weapons/BP_MeleeWeapon.uasset'
+[2020.07.21-17.41.49:935][451]AssetCheck: New page: Asset Save: BP_MeleeWeapon
+[2020.07.21-17.41.49:935][451]LogContentValidation: Display: Validating Blueprint /Game/BhandanaDesign/Actors/Weapons/BP_MeleeWeapon.BP_MeleeWeapon
+[2020.07.21-17.41.50:478][483]BlueprintLog: New page: Compile BP_MeleeWeapon
+[2020.07.21-17.41.50:578][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.07.21-17.41.50:582][483]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.41.50:583][483]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_MeleeWeapon_C_CHILDACTOR_9.Model) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.07.21-17.41.50:585][483]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.41.50:585][483]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_MeleeWeapon_C_CHILDACTOR_11.Model) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.07.21-17.41.50:590][483]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.41.50:591][483]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_MeleeWeapon_C_CHILDACTOR_11.Model) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.07.21-17.41.50:593][483]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.41.50:593][483]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_MeleeWeapon_C_CHILDACTOR_13.Model) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.07.21-17.42.02:537][151]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BhandanaDesign/Models/Weapons/Demosword.Demosword
+[2020.07.21-17.42.02:969][151]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.07.21-17.42.02:970][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.21-17.42.03:512][152]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.07.21-17.42.15:734][876]LogEditorFactories: Performing atomic reimport of [C:/Users/TVGme/Desktop/Shortcuts (1)/BlenderWorkspace/Demosword.fbx]
+[2020.07.21-17.42.15:785][876]LogFbx: Loading FBX Scene from C:/Users/TVGme/Desktop/Shortcuts (1)/BlenderWorkspace/Demosword.fbx
+[2020.07.21-17.42.15:792][876]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.21-17.42.15:801][876]LogFbx: Display: Triangulating static mesh SwordMesh
+[2020.07.21-17.42.15:840][876]LogStaticMesh: Building static mesh Demosword...
+[2020.07.21-17.42.15:846][876]LogStaticMesh: Built static mesh [0.01s] /Game/BhandanaDesign/Models/Weapons/Demosword.Demosword
+[2020.07.21-17.42.15:868][876]LogEditorFactories: -- imported successfully
+[2020.07.21-17.42.15:870][876]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.21-17.42.22:801][274]LogEditorFactories: Performing atomic reimport of [C:/Users/TVGme/Desktop/Shortcuts (1)/BlenderWorkspace/Demosword.fbx]
+[2020.07.21-17.42.22:852][274]LogFbx: Loading FBX Scene from C:/Users/TVGme/Desktop/Shortcuts (1)/BlenderWorkspace/Demosword.fbx
+[2020.07.21-17.42.22:858][274]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.21-17.42.22:864][274]LogFbx: Display: Triangulating static mesh SwordMesh
+[2020.07.21-17.42.22:912][274]LogStaticMesh: Building static mesh Demosword...
+[2020.07.21-17.42.22:918][274]LogStaticMesh: Built static mesh [0.01s] /Game/BhandanaDesign/Models/Weapons/Demosword.Demosword
+[2020.07.21-17.42.22:939][274]LogEditorFactories: -- imported successfully
+[2020.07.21-17.42.22:942][274]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.21-17.42.24:442][344]LogSavePackage: Moving '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Saved/DemoswordC95F75CA4CB196D7F6487A853059BA87.tmp' to '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/BhandanaDesign/Models/Weapons/Demosword.uasset'
+[2020.07.21-17.42.24:465][344]AssetCheck: New page: Asset Save: Demosword
+[2020.07.21-17.42.24:465][344]LogContentValidation: Display: Validating StaticMesh /Game/BhandanaDesign/Models/Weapons/Demosword.Demosword
+[2020.07.21-17.42.36:713][  9]LogEditorFactories: Performing atomic reimport of [C:/Users/TVGme/Desktop/Shortcuts (1)/BlenderWorkspace/Demosword.fbx]
+[2020.07.21-17.42.36:757][  9]LogFbx: Loading FBX Scene from C:/Users/TVGme/Desktop/Shortcuts (1)/BlenderWorkspace/Demosword.fbx
+[2020.07.21-17.42.36:763][  9]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.21-17.42.36:770][  9]LogFbx: Display: Triangulating static mesh SwordMesh
+[2020.07.21-17.42.36:815][  9]LogStaticMesh: Building static mesh Demosword...
+[2020.07.21-17.42.36:821][  9]LogStaticMesh: Built static mesh [0.01s] /Game/BhandanaDesign/Models/Weapons/Demosword.Demosword
+[2020.07.21-17.42.36:836][  9]LogEditorFactories: -- imported successfully
+[2020.07.21-17.42.36:839][  9]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.21-17.42.37:908][ 53]LogSavePackage: Moving '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Demosword1A20779E4BCE5D2413DD2C8E3B3E3768.tmp' to '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/BhandanaDesign/Models/Weapons/Demosword.uasset'
+[2020.07.21-17.42.37:929][ 53]AssetCheck: New page: Asset Save: Demosword
+[2020.07.21-17.42.37:929][ 53]LogContentValidation: Display: Validating StaticMesh /Game/BhandanaDesign/Models/Weapons/Demosword.Demosword
+[2020.07.21-17.42.47:589][571]LogEditorFactories: Performing atomic reimport of [C:/Users/TVGme/Desktop/Shortcuts (1)/BlenderWorkspace/Demosword.fbx]
+[2020.07.21-17.42.47:635][571]LogFbx: Loading FBX Scene from C:/Users/TVGme/Desktop/Shortcuts (1)/BlenderWorkspace/Demosword.fbx
+[2020.07.21-17.42.47:645][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.21-17.42.47:652][571]LogFbx: Display: Triangulating static mesh SwordMesh
+[2020.07.21-17.42.47:696][571]LogStaticMesh: Building static mesh Demosword...
+[2020.07.21-17.42.47:702][571]LogStaticMesh: Built static mesh [0.01s] /Game/BhandanaDesign/Models/Weapons/Demosword.Demosword
+[2020.07.21-17.42.47:719][571]LogEditorFactories: -- imported successfully
+[2020.07.21-17.42.47:721][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.21-17.42.54:204][921]LogSavePackage: Moving '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Saved/DemoswordE7951AD142E284AC8B4E308B065716C7.tmp' to '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/BhandanaDesign/Models/Weapons/Demosword.uasset'
+[2020.07.21-17.42.54:224][921]AssetCheck: New page: Asset Save: Demosword
+[2020.07.21-17.42.54:224][921]LogContentValidation: Display: Validating StaticMesh /Game/BhandanaDesign/Models/Weapons/Demosword.Demosword
+[2020.07.21-17.43.13:703][ 20]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.Mannequin
+[2020.07.21-17.43.13:716][ 20]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.07.21-17.43.13:732][ 20]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.21-17.43.13:743][ 20]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.07.21-17.43.13:825][ 20]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.07.21-17.44.38:036][534]LogSavePackage: Moving '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Saved/MannequinC3F0CB7E4F5A580866A13AAE5D6FED96.tmp' to '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.uasset'
+[2020.07.21-17.44.38:060][534]AssetCheck: New page: Asset Save: Mannequin
+[2020.07.21-17.44.38:060][534]LogContentValidation: Display: Validating SkeletalMesh /Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.Mannequin
+[2020.07.21-17.44.53:962][358]LogSavePackage: Moving '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Mannequin2815D0D24B935433E96FAF8FC3A82B41.tmp' to '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.uasset'
+[2020.07.21-17.44.53:983][358]AssetCheck: New page: Asset Save: Mannequin
+[2020.07.21-17.44.53:983][358]LogContentValidation: Display: Validating SkeletalMesh /Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.Mannequin
+[2020.07.21-17.45.01:832][757]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.21-17.45.01:863][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.21-17.45.01:864][757]PIE: New page: PIE session: ALSV3_DemoLevel_SP (Jul 22, 2020, 1:45:01 PM)
+[2020.07.21-17.45.01:870][757]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.07.21-17.45.01:871][757]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.07.21-17.45.01:872][757]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_ALSV3_DemoLevel_SP
+[2020.07.21-17.45.01:894][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021839s)
+[2020.07.21-17.45.01:896][757]LogAIModule: Creating AISystem for world ALSV3_DemoLevel_SP
+[2020.07.21-17.45.01:896][757]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024F1C4B3E00), frame # 14757
+[2020.07.21-17.45.01:896][757]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024F1C4BBD80), frame # 14757
+[2020.07.21-17.45.01:896][757]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2020.07.21-17.45.01:896][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV3/Maps/ALSV3_DemoLevel_SP.ALSV3_DemoLevel_SP to /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_ALSV3_DemoLevel_SP.ALSV3_DemoLevel_SP (0.023630s)
+[2020.07.21-17.45.02:047][757]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2020.07.21-17.45.02:051][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.21-17.45.02:051][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.21-17.45.02:051][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.21-17.45.02:051][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.21-17.45.02:051][757]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.21-17.45.02:051][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.21-17.45.02:051][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.21-17.45.02:051][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.21-17.45.02:052][757]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.21-17.45.02:052][757]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.21-17.45.02:057][757]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.21-17.45.02:057][757]LogAudioMixer: Display: 1: FrontRight
+[2020.07.21-17.45.02:080][757]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.07.21-17.45.02:080][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.21-17.45.02:080][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.21-17.45.02:080][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.21-17.45.02:081][757]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.21-17.45.02:097][757]LogInit: FAudioDevice initialized.
+[2020.07.21-17.45.02:127][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.21-17.45.02:128][757]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.07.21-17.45.02:136][757]LogWorld: Bringing World /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_ALSV3_DemoLevel_SP.ALSV3_DemoLevel_SP up for play (max tick rate 60) at 2020.07.22-03.45.02
+[2020.07.21-17.45.02:148][757]LogWorld: Bringing up level for play took: 0.019054
+[2020.07.21-17.45.02:149][757]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.07.21-17.45.02:158][757]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.07.21-17.45.02:161][757]LogBlueprintUserMessages: [RPG_Actor_C_0] Server: Server
+[2020.07.21-17.45.02:166][757]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.21-17.45.02:166][757]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.21-17.45.02:167][757]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.07.21-17.45.02:167][757]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2020.07.21-17.45.02:168][757]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.21-17.45.02:169][757]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2020.07.21-17.45.02:180][757]PIE: Server logged in
+[2020.07.21-17.45.02:181][757]PIE: Play in editor total start time 0.322 seconds.
+[2020.07.21-17.45.02:183][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.21-17.45.02:183][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.21-17.45.02:183][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.21-17.45.02:183][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.21-17.45.02:183][757]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.21-17.45.02:183][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.21-17.45.02:183][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.21-17.45.02:183][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.21-17.45.02:184][757]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.21-17.45.02:184][757]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.21-17.45.02:188][757]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.21-17.45.02:188][757]LogAudioMixer: Display: 1: FrontRight
+[2020.07.21-17.45.02:205][757]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.07.21-17.45.02:205][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.21-17.45.02:205][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.21-17.45.02:205][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.21-17.45.02:205][757]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.21-17.45.02:221][757]LogInit: FAudioDevice initialized.
+[2020.07.21-17.45.02:261][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.21-17.45.02:261][757]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.07.21-17.45.02:262][757]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.07.21-17.45.02:262][757]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2020.07.21-17.45.02:262][757]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.21-17.45.02:263][757]LogNet: Game client on port 17777, rate 10000
+[2020.07.21-17.45.02:267][757]PIE: Client logged in
+[2020.07.21-17.45.02:269][757]PIE: Play in editor total start time 0.409 seconds.
+[2020.07.21-17.45.03:204][779]LogBlueprintUserMessages: [RPG_Actor_C_0] Server: Server
+[2020.07.21-17.45.03:306][783]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52731
+[2020.07.21-17.45.03:307][783]LogHandshake: SendConnectChallenge. Timestamp: 1.472162, Cookie: 238247071064177125031048166176079246253191233096175047017012
+[2020.07.21-17.45.03:309][783]LogHandshake: SendChallengeResponse. Timestamp: 1.472162, Cookie: 238247071064177125031048166176079246253191233096175047017012
+[2020.07.21-17.45.03:325][784]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52731
+[2020.07.21-17.45.03:325][784]LogHandshake: SendChallengeAck. InCookie: 238247071064177125031048166176079246253191233096175047017012
+[2020.07.21-17.45.03:325][784]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52731
+[2020.07.21-17.45.03:326][784]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.21-17.45.03:327][784]LogNet: NotifyAcceptedConnection: Name: ALSV3_DemoLevel_SP, TimeStamp: 07/22/20 03:45:03, [UNetConnection] RemoteAddr: 127.0.0.1:52731, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.21-17.45.03:327][784]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52731, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.21-17.45.03:330][784]LogNetVersion: Prototype 1.0.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1026691340)
+[2020.07.21-17.45.03:330][784]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.21-17.45.03:349][785]LogNet: NotifyAcceptingChannel Control 0 server World /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_ALSV3_DemoLevel_SP.ALSV3_DemoLevel_SP: Accepted
+[2020.07.21-17.45.03:350][785]LogNet: Remote platform little endian=1
+[2020.07.21-17.45.03:350][785]LogNet: This platform little endian=1
+[2020.07.21-17.45.03:353][785]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.07.21-17.45.03:372][786]LogNet: Login request: ?Name=LAPTOP-6U3P6J3G-DA10C8D5425DABE9D7C6E4BEDF3AA4CC userId: NULL:LAPTOP-6U3P6J3G-DA10C8D5425DABE9D7C6E4BEDF3AA4CC platform: NULL
+[2020.07.21-17.45.03:376][786]LogNet: Welcomed by server (Level: /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_ALSV3_DemoLevel_SP, Game: /Game/AdvancedLocomotionV3/Maps/ALS_GameMode_SP.ALS_GameMode_SP_C)
+[2020.07.21-17.45.03:381][786]LogLoad: LoadMap: 127.0.0.1:17777//Game/AdvancedLocomotionV3/Maps/UEDPIE_0_ALSV3_DemoLevel_SP?game=/Game/AdvancedLocomotionV3/Maps/ALS_GameMode_SP.ALS_GameMode_SP_C
+[2020.07.21-17.45.03:381][786]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2020.07.21-17.45.03:381][786]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.21-17.45.03:381][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.21-17.45.03:506][786]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.07.21-17.45.03:526][786]LogAIModule: Creating AISystem for world ALSV3_DemoLevel_SP
+[2020.07.21-17.45.03:526][786]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024EDCB49C00), frame # 14786
+[2020.07.21-17.45.03:526][786]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024EDCC0B740), frame # 14786
+[2020.07.21-17.45.03:529][786]LogWorld: Bringing World /Game/AdvancedLocomotionV3/Maps/UEDPIE_1_ALSV3_DemoLevel_SP.ALSV3_DemoLevel_SP up for play (max tick rate 60) at 2020.07.22-03.45.03
+[2020.07.21-17.45.03:530][786]LogWorld: Bringing up level for play took: 0.002355
+[2020.07.21-17.45.03:531][786]LogLoad: Took 0.150473 seconds to LoadMap(/Game/AdvancedLocomotionV3/Maps/UEDPIE_0_ALSV3_DemoLevel_SP)
+[2020.07.21-17.45.03:553][787]LogNet: Client netspeed is 10000
+[2020.07.21-17.45.03:554][787]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=LAPTOP-6U3P6J3G-DA10C8D5425DABE9D7C6E4BEDF3AA4CC?SplitscreenCount=1
+[2020.07.21-17.45.03:554][787]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.21-17.45.03:561][787]LogBlueprintUserMessages: [RPG_Actor_C_1] Server: Server
+[2020.07.21-17.45.03:562][787]LogNet: Join succeeded: LAPTOP-6U3P6J3G-DA10
+[2020.07.21-17.45.03:665][791]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor RPG_Actor_C_0. Function BeginUpdatingClass will not be processed.
+[2020.07.21-17.45.03:761][795]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor RPG_Actor_C_1. Function BeginUpdatingClass will not be processed.
+[2020.07.21-17.45.03:762][795]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor RPG_Actor_C_1. Function ClientUpdateClass will not be processed.
+[2020.07.21-17.45.03:970][804]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.21-17.45.03:998][805]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.21-17.45.04:070][808]LogBlueprintUserMessages: [RPG_Actor_C_1] Server: Server
+[2020.07.21-17.45.21:444][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.21-17.45.21:444][550]LogWorld: BeginTearingDown for /Game/AdvancedLocomotionV3/Maps/UEDPIE_1_ALSV3_DemoLevel_SP
+[2020.07.21-17.45.21:445][550]LogSlate: Window 'Prototype Preview [NetMode: Client 2] (64-bit/Windows) ' being destroyed
+[2020.07.21-17.45.21:448][550]LogWorld: UWorld::CleanupWorld for ALSV3_DemoLevel_SP, bSessionEnded=true, bCleanupResources=true
+[2020.07.21-17.45.21:449][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.21-17.45.21:457][550]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2020.07.21-17.45.21:457][550]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2020.07.21-17.45.21:457][550]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-6U3P6J3G-DA10C8D5425DABE9D7C6E4BEDF3AA4CC, Channels: 24, Time: 2020.07.21-17.45.21
+[2020.07.21-17.45.21:457][550]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-6U3P6J3G-DA10C8D5425DABE9D7C6E4BEDF3AA4CC
+[2020.07.21-17.45.21:458][550]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2020.07.21-17.45.21:459][550]LogWorld: BeginTearingDown for /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_ALSV3_DemoLevel_SP
+[2020.07.21-17.45.21:459][550]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.07.21-17.45.21:459][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.21-17.45.21:459][550]LogSlate: Window 'Prototype Preview [NetMode: Server] (64-bit/Windows) ' being destroyed
+[2020.07.21-17.45.21:466][550]LogWorld: UWorld::CleanupWorld for ALSV3_DemoLevel_SP, bSessionEnded=true, bCleanupResources=true
+[2020.07.21-17.45.21:467][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.21-17.45.21:474][550]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2020.07.21-17.45.21:475][550]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2020.07.21-17.45.21:475][550]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:52731, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-6U3P6J3G-DA10C8D5425DABE9D7C6E4BEDF3AA4CC
+[2020.07.21-17.45.21:475][550]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52731, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-6U3P6J3G-DA10C8D5425DABE9D7C6E4BEDF3AA4CC, Channels: 24, Time: 2020.07.21-17.45.21
+[2020.07.21-17.45.21:475][550]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52731, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:LAPTOP-6U3P6J3G-DA10C8D5425DABE9D7C6E4BEDF3AA4CC
+[2020.07.21-17.45.21:476][550]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2020.07.21-17.45.21:477][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.21-17.45.21:483][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.21-17.45.21:568][550]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024EDCC0B740), frame # 15550
+[2020.07.21-17.45.21:568][550]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024EDCB49C00), frame # 15550
+[2020.07.21-17.45.21:585][550]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024F1C4B3E00), frame # 15550
+[2020.07.21-17.45.21:585][550]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024F1C4BBD80), frame # 15550
+[2020.07.21-17.45.21:589][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.07.21-17.45.21:671][551]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.07.21-17.45.21:671][551]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.07.21-17.45.39:011][456]LogSavePackage: Moving '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Saved/MannequinF5FEA7BD40EF7DDFBD3C25A0C1CBFDBA.tmp' to '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.uasset'
+[2020.07.21-17.45.39:032][456]AssetCheck: New page: Asset Save: Mannequin
+[2020.07.21-17.45.39:032][456]LogContentValidation: Display: Validating SkeletalMesh /Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.Mannequin
+[2020.07.21-17.45.44:632][783]LogEditorFactories: Performing atomic reimport of [C:/Users/TVGme/Desktop/Shortcuts (1)/BlenderWorkspace/Demosword.fbx]
+[2020.07.21-17.45.44:683][783]LogFbx: Loading FBX Scene from C:/Users/TVGme/Desktop/Shortcuts (1)/BlenderWorkspace/Demosword.fbx
+[2020.07.21-17.45.44:689][783]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.21-17.45.44:695][783]LogFbx: Display: Triangulating static mesh SwordMesh
+[2020.07.21-17.45.44:739][783]LogStaticMesh: Building static mesh Demosword...
+[2020.07.21-17.45.44:745][783]LogStaticMesh: Built static mesh [0.01s] /Game/BhandanaDesign/Models/Weapons/Demosword.Demosword
+[2020.07.21-17.45.44:761][783]LogEditorFactories: -- imported successfully
+[2020.07.21-17.45.44:764][783]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.07.21-17.45.45:335][799]LogSavePackage: Moving '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Saved/DemoswordB01FF8FB41CB99215684B5BC2814707E.tmp' to '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/BhandanaDesign/Models/Weapons/Demosword.uasset'
+[2020.07.21-17.45.45:352][799]AssetCheck: New page: Asset Save: Demosword
+[2020.07.21-17.45.45:352][799]LogContentValidation: Display: Validating StaticMesh /Game/BhandanaDesign/Models/Weapons/Demosword.Demosword
+[2020.07.21-17.46.16:161][450]LogSavePackage: Moving '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Mannequin1F197BF848265599D58FF6B3B692A635.tmp' to '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.uasset'
+[2020.07.21-17.46.16:181][450]AssetCheck: New page: Asset Save: Mannequin
+[2020.07.21-17.46.16:181][450]LogContentValidation: Display: Validating SkeletalMesh /Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.Mannequin
+[2020.07.21-17.46.23:310][827]LogSavePackage: Moving '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Mannequin44337D8D488505013F56B8BC186293CF.tmp' to '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.uasset'
+[2020.07.21-17.46.23:331][827]AssetCheck: New page: Asset Save: Mannequin
+[2020.07.21-17.46.23:331][827]LogContentValidation: Display: Validating SkeletalMesh /Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.Mannequin
+[2020.07.21-17.46.37:234][550]LogSavePackage: Moving '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Mannequin2552F52C472EA1A91E3707B690436D5F.tmp' to '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.uasset'
+[2020.07.21-17.46.37:253][550]AssetCheck: New page: Asset Save: Mannequin
+[2020.07.21-17.46.37:253][550]LogContentValidation: Display: Validating SkeletalMesh /Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.Mannequin
+[2020.07.21-17.48.18:976][217]LogSavePackage: Moving '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Saved/MannequinC629F39E46BB3A319F6AD38B8EA7D782.tmp' to '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.uasset'
+[2020.07.21-17.48.18:997][217]AssetCheck: New page: Asset Save: Mannequin
+[2020.07.21-17.48.18:997][217]LogContentValidation: Display: Validating SkeletalMesh /Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin.Mannequin
+[2020.07.21-17.48.50:377][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BhandanaDesign/Actors/RPG_Actor" FILE="../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/BhandanaDesign/Actors/RPG_Actor.uasset" SILENT=true
+[2020.07.21-17.48.50:484][887]LogSavePackage: Moving '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Saved/RPG_ActorEABDC1774FBF060D863357AEDAB1D279.tmp' to '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Content/BhandanaDesign/Actors/RPG_Actor.uasset'
+[2020.07.21-17.48.50:504][887]AssetCheck: New page: Asset Save: RPG_Actor
+[2020.07.21-17.48.50:504][887]LogContentValidation: Display: Validating Blueprint /Game/BhandanaDesign/Actors/RPG_Actor.RPG_Actor
+[2020.07.21-17.48.50:809][903]BlueprintLog: New page: Compile RPG_Actor
+[2020.07.21-17.48.50:865][903]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.48.50:867][903]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.48.50:915][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.07.21-17.48.50:920][903]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.48.50:927][903]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.48.50:931][903]LogBlueprintUserMessages: [RPG_Actor_C_1] Server
+[2020.07.21-17.48.50:960][903]LogBlueprintUserMessages: [RPG_Actor_C_0] Server
+[2020.07.21-17.48.50:964][903]LogBlueprintUserMessages: [RPG_Actor_C_1] Server
+[2020.07.21-17.48.54:408][ 38]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.21-17.48.54:433][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.21-17.48.54:433][ 38]PIE: New page: PIE session: ALSV3_DemoLevel_SP (Jul 22, 2020, 1:48:54 PM)
+[2020.07.21-17.48.54:433][ 38]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_ALSV3_DemoLevel_SP
+[2020.07.21-17.48.54:450][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016296s)
+[2020.07.21-17.48.54:451][ 38]LogAIModule: Creating AISystem for world ALSV3_DemoLevel_SP
+[2020.07.21-17.48.54:451][ 38]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024E30DC2400), frame # 27038
+[2020.07.21-17.48.54:451][ 38]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024EDB19C900), frame # 27038
+[2020.07.21-17.48.54:451][ 38]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2020.07.21-17.48.54:451][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV3/Maps/ALSV3_DemoLevel_SP.ALSV3_DemoLevel_SP to /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_ALSV3_DemoLevel_SP.ALSV3_DemoLevel_SP (0.017616s)
+[2020.07.21-17.48.54:482][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.07.21-17.48.54:483][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.21-17.48.54:483][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.21-17.48.54:483][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.21-17.48.54:483][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.21-17.48.54:483][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.21-17.48.54:483][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.21-17.48.54:483][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.21-17.48.54:483][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.21-17.48.54:483][ 38]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.21-17.48.54:483][ 38]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.21-17.48.54:488][ 38]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.21-17.48.54:488][ 38]LogAudioMixer: Display: 1: FrontRight
+[2020.07.21-17.48.54:508][ 38]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.07.21-17.48.54:508][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.21-17.48.54:508][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.21-17.48.54:508][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.21-17.48.54:509][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.21-17.48.54:523][ 38]LogInit: FAudioDevice initialized.
+[2020.07.21-17.48.54:553][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.21-17.48.54:553][ 38]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.07.21-17.48.54:559][ 38]LogWorld: Bringing World /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_ALSV3_DemoLevel_SP.ALSV3_DemoLevel_SP up for play (max tick rate 60) at 2020.07.22-03.48.54
+[2020.07.21-17.48.54:560][ 38]LogWorld: Bringing up level for play took: 0.005771
+[2020.07.21-17.48.54:560][ 38]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.07.21-17.48.54:567][ 38]LogBlueprintUserMessages: [RPG_Actor_C_0] Server: Server
+[2020.07.21-17.48.54:568][ 38]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.21-17.48.54:568][ 38]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.21-17.48.54:568][ 38]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.07.21-17.48.54:568][ 38]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2020.07.21-17.48.54:568][ 38]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.21-17.48.54:568][ 38]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2020.07.21-17.48.54:574][ 38]PIE: Server logged in
+[2020.07.21-17.48.54:579][ 38]PIE: Play in editor total start time 0.147 seconds.
+[2020.07.21-17.48.54:581][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.21-17.48.54:581][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.21-17.48.54:581][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.21-17.48.54:581][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.21-17.48.54:581][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.21-17.48.54:581][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.21-17.48.54:581][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.21-17.48.54:581][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.21-17.48.54:582][ 38]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.21-17.48.54:582][ 38]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.21-17.48.54:587][ 38]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.21-17.48.54:587][ 38]LogAudioMixer: Display: 1: FrontRight
+[2020.07.21-17.48.54:606][ 38]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.07.21-17.48.54:606][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.21-17.48.54:606][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.21-17.48.54:606][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.21-17.48.54:606][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.21-17.48.54:621][ 38]LogInit: FAudioDevice initialized.
+[2020.07.21-17.48.54:659][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.21-17.48.54:659][ 38]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.07.21-17.48.54:659][ 38]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.07.21-17.48.54:659][ 38]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2020.07.21-17.48.54:660][ 38]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.21-17.48.54:660][ 38]LogNet: Game client on port 17777, rate 10000
+[2020.07.21-17.48.54:664][ 38]PIE: Client logged in
+[2020.07.21-17.48.54:672][ 38]PIE: Play in editor total start time 0.239 seconds.
+[2020.07.21-17.48.55:604][ 67]LogBlueprintUserMessages: [RPG_Actor_C_0] Server: Server
+[2020.07.21-17.48.55:685][ 70]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58599
+[2020.07.21-17.48.55:685][ 70]LogHandshake: SendConnectChallenge. Timestamp: 1.293713, Cookie: 042108212146143096094054139221229237252207016211220197057178
+[2020.07.21-17.48.55:689][ 70]LogHandshake: SendChallengeResponse. Timestamp: 1.293713, Cookie: 042108212146143096094054139221229237252207016211220197057178
+[2020.07.21-17.48.55:713][ 71]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58599
+[2020.07.21-17.48.55:713][ 71]LogHandshake: SendChallengeAck. InCookie: 042108212146143096094054139221229237252207016211220197057178
+[2020.07.21-17.48.55:714][ 71]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58599
+[2020.07.21-17.48.55:714][ 71]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.21-17.48.55:714][ 71]LogNet: NotifyAcceptedConnection: Name: ALSV3_DemoLevel_SP, TimeStamp: 07/22/20 03:48:55, [UNetConnection] RemoteAddr: 127.0.0.1:58599, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.21-17.48.55:714][ 71]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58599, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.21-17.48.55:716][ 71]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.21-17.48.55:740][ 72]LogNet: NotifyAcceptingChannel Control 0 server World /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_ALSV3_DemoLevel_SP.ALSV3_DemoLevel_SP: Accepted
+[2020.07.21-17.48.55:740][ 72]LogNet: Remote platform little endian=1
+[2020.07.21-17.48.55:740][ 72]LogNet: This platform little endian=1
+[2020.07.21-17.48.55:741][ 72]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.07.21-17.48.55:767][ 73]LogNet: Login request: ?Name=LAPTOP-6U3P6J3G-48FF37F845C6D6331881878C303E9092 userId: NULL:LAPTOP-6U3P6J3G-48FF37F845C6D6331881878C303E9092 platform: NULL
+[2020.07.21-17.48.55:769][ 73]LogNet: Welcomed by server (Level: /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_ALSV3_DemoLevel_SP, Game: /Game/AdvancedLocomotionV3/Maps/ALS_GameMode_SP.ALS_GameMode_SP_C)
+[2020.07.21-17.48.55:769][ 73]LogLoad: LoadMap: 127.0.0.1:17777//Game/AdvancedLocomotionV3/Maps/UEDPIE_0_ALSV3_DemoLevel_SP?game=/Game/AdvancedLocomotionV3/Maps/ALS_GameMode_SP.ALS_GameMode_SP_C
+[2020.07.21-17.48.55:769][ 73]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2020.07.21-17.48.55:769][ 73]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.21-17.48.55:769][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.21-17.48.55:804][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.07.21-17.48.55:822][ 73]LogAIModule: Creating AISystem for world ALSV3_DemoLevel_SP
+[2020.07.21-17.48.55:822][ 73]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024F1BE10A00), frame # 27073
+[2020.07.21-17.48.55:823][ 73]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024E31183D80), frame # 27073
+[2020.07.21-17.48.55:826][ 73]LogWorld: Bringing World /Game/AdvancedLocomotionV3/Maps/UEDPIE_1_ALSV3_DemoLevel_SP.ALSV3_DemoLevel_SP up for play (max tick rate 60) at 2020.07.22-03.48.55
+[2020.07.21-17.48.55:826][ 73]LogWorld: Bringing up level for play took: 0.002251
+[2020.07.21-17.48.55:827][ 73]LogLoad: Took 0.057678 seconds to LoadMap(/Game/AdvancedLocomotionV3/Maps/UEDPIE_0_ALSV3_DemoLevel_SP)
+[2020.07.21-17.48.55:850][ 74]LogNet: Client netspeed is 10000
+[2020.07.21-17.48.55:850][ 74]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=LAPTOP-6U3P6J3G-48FF37F845C6D6331881878C303E9092?SplitscreenCount=1
+[2020.07.21-17.48.55:850][ 74]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.21-17.48.55:853][ 74]LogBlueprintUserMessages: [RPG_Actor_C_1] Server: Server
+[2020.07.21-17.48.55:854][ 74]LogNet: Join succeeded: LAPTOP-6U3P6J3G-48FF
+[2020.07.21-17.48.55:977][ 78]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor RPG_Actor_C_0. Function BeginUpdatingClass will not be processed.
+[2020.07.21-17.48.56:086][ 82]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor RPG_Actor_C_1. Function BeginUpdatingClass will not be processed.
+[2020.07.21-17.48.56:087][ 82]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor RPG_Actor_C_1. Function ClientUpdateClass will not be processed.
+[2020.07.21-17.48.56:302][ 90]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.21-17.48.56:418][ 94]LogBlueprintUserMessages: [RPG_Actor_C_1] Server: Server
+[2020.07.21-17.48.56:422][ 94]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.21-17.48.58:698][152]LogRenderer: Reallocating scene render targets to support 1432x1008 Format 10 NumSamples 1 (Frame:80).
+[2020.07.21-17.49.01:610][216]LogOutputDevice: Warning: 
+
+Script Stack (1 frames):
+Actor.OnRep_AttachmentReplication
+
+[2020.07.21-17.49.02:364][216]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.755 s
+[2020.07.21-17.49.02:364][216]LogOutputDevice: Error: === Handled ensure: ===
+[2020.07.21-17.49.02:364][216]LogOutputDevice: Error: 
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: Ensure condition failed: !bRegistered || GetAttachParent()->GetAttachChildren().Contains(this) [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Engine/Private/Components/SceneComponent.cpp] [Line: 2160]
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: Attempt to detach SceneComponent 'Model' owned by 'MeleeWeapon_GEN_VARIABLE_BP_MeleeWeapon_C_CAT_1' from AttachParent 'MeleeWeapon' while not attached.
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: Stack: 
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff82a0271c6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff828be6ca7 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff828bdd2ed UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff8287a4fc2 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff880ba0ac4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff880e14763 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff8287aa025 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff8295431ea UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff828d014ea UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff828cbb367 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff828cc2758 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff828cc60ff UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff828cc5747 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff828cc5cee UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff8291ffa23 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff8292014c8 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff81803b31f UE4Editor-OnlineSubsystemUtils.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff82923677f UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff8286ed340 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff829035685 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff82c48a737 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff82cd600d6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff7c7a17800 UE4Editor.exe!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff7c7a2ba7c UE4Editor.exe!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff7c7a2bb5a UE4Editor.exe!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff7c7a3e31d UE4Editor.exe!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff7c7a4145a UE4Editor.exe!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff8a94b7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: [Callstack] 0x00007ff8a960ce51 ntdll.dll!UnknownFunction []
+[2020.07.21-17.49.02:365][216]LogOutputDevice: Error: 
