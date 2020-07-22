@@ -11547,3 +11547,12 @@ Actor.OnRep_AttachmentReplication
 [2020.07.22-13.09.39:633][717]AssetCheck: New page: Asset Save: multiple assets
 [2020.07.22-13.09.39:633][717]LogContentValidation: Display: Validating World /Game/AdvancedLocomotionV3/Maps/ALSV3_DemoLevel_SP.ALSV3_DemoLevel_SP
 [2020.07.22-13.09.39:633][717]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AdvancedLocomotionV3/Maps/ALSV3_DemoLevel_SP_BuiltData.ALSV3_DemoLevel_SP_BuiltData
+[2020.07.22-13.17.54:494][946]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.22-13.17.54:499][946]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.22-13.19.39:665][581]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.07.22-13.19.39:674][581]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AdvancedLocomotionV3/Maps/ALSV3_DemoLevel_SP' took 0.130
+[2020.07.22-13.19.39:674][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BhandanaDesign/Actors/Projectiles/BP_BickDutterBulletuda] ([1] browsable assets)...
+[2020.07.22-13.19.39:710][581]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BhandanaDesign/Actors/Projectiles/BP_BickDutterBulletuda.BP_BickDutterBulletuda]
+[2020.07.22-13.19.39:710][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/BhandanaDesign/Actors/Projectiles/BP_BickDutterBulletuda]
+[2020.07.22-13.19.39:757][581]LogSavePackage: Moving '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Saved/BP_BickDutterBulletuda_Auto63A4125664180DC2F051200984512A0D2.tmp' to '../../../../../Users/TVGme/Desktop/ShitKraken/Prototype/Saved/Autosaves/Game/BhandanaDesign/Actors/Projectiles/BP_BickDutterBulletuda_Auto6.uasset'
+[2020.07.22-13.19.39:758][581]LogFileHelpers: Auto-saving content packages took 0.084
